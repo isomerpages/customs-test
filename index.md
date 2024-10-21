@@ -12,7 +12,7 @@ notification: Use our digital services when transacting with us! We encourage
   visit the ICA website (https://safetravel.ica.gov.sg/).
 sections:
   - hero:
-      background: /images/Homepage_NewCI__Resized_.png
+      background: /images/Homepage__New_CI_.png
       key_highlights:
         - title: Duty-Free Concession and GST Relief
           description: ""
