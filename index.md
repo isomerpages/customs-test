@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Singapore Customs
 description: An Isomer site of the Singapore Government
 image: /images/1_4_1_SG_Customs_Logo_Version_A_Full_Colour_RGB_FA.png
 permalink: /
