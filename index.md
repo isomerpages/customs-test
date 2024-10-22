@@ -27,7 +27,7 @@ sections:
           description: ""
           url: /businesses/customs-schemes-licences-framework/overview
   - infobar:
-      subtitle: How are we building a thriving
+      subtitle: How are we building a thrivi..
       description: By protecting revenue, the monies we collect contribute to nation
         building. As we facilitate Singapore's trade, we create a positive
         impact on businesses and...
