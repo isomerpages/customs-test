@@ -2,7 +2,22 @@ logo: /images/1_4_1_SG_Customs_Logo_Version_A_Full_Colour_RGB_FA.png
 links:
   - title: About Us
     url: /example-page/
+  - title: Individuals
+    url: /permalink
+  - title: Businesses
+    url: /permalink
   - title: News and Media
     resource_room: true
+  - title: E-Services
+    url: /permalink
+    sublinks:
+      - title: Customs Forms & Service Links
+        url: /permalink
+      - title: HS Code Product Search Engine
+        url: /permalink
+      - title: Exchange Rates
+        url: /permalink
   - title: Contact Us
     url: /contact-us/
+  - title: FAQ
+    url: https://ask.gov.sg/customs
