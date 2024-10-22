@@ -2,7 +2,7 @@
 layout: homepage
 title: Title
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/1_4_1_SG_Customs_Logo_Version_A_Full_Colour_RGB_FA.png
 permalink: /
 notification: Use our digital services when transacting with us! We encourage
   businesses to submit trade declarations via TradeNet and access our eServices
