@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Going Through Customs/.keep
-      - Offences.md
       - Departure.md
       - Arrivals.md
