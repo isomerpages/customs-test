@@ -32,6 +32,5 @@ sections:
       title: How we are building a thriving Singapore economy
   - resources:
       title: Media
-      subtitle: Learn more
       button: View More
 ---
