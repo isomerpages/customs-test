@@ -60,9 +60,9 @@ bank account or credit card details, or other personal details to the sender/cal
 </li>
 </ul>
 <p>When in doubt, please contact Singapore Customs on (65) 6355 2000 or email
-us at [<a href="mailto:customs_feedback@customs.gov.sg" rel="noopener noreferrer nofollow" target="_blank">customs_feedback@customs.gov.sg</a>](mailto:
-<a href="mailto:customs_feedback@customs.gov.sg" rel="noopener noreferrer nofollow" target="_blank">customs_feedback@customs.gov.sg</a>) to verify the authenticity of any
-correspondence you have received from Singapore Customs.</p>
+us at <a href="mailto:customs_feedback@customs.gov.sg" rel="noopener noreferrer nofollow" target="_blank">customs_feedback@customs.gov.sg</a> to
+verify the authenticity of any correspondence you have received from Singapore
+Customs.</p>
 <h3>Websites claiming that Singapore Customs has released detained goods for sale</h3>
 <p>Singapore Customs has been alerted to several websites claiming that we
 have released detained goods such as branded handbags and watches for sale.</p>
