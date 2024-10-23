@@ -77,10 +77,12 @@ information to Singapore Customs using the <a href="https://form.gov.sg/64e554f0
 <hr>
 <h3>Can’t find what you’re looking for?<br></h3>
 <p>You may wish to fill in an <a href="https://www.customs.gov.sg/feedback/" rel="noopener noreferrer nofollow" target="_blank">online form</a> if you have
-a query, feedback or wish to report a problem related to this website.
-<br>
-</p>
+a query, feedback or wish to report a problem related to this website.</p>
+<p></p>
 <hr>
+<p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -89,7 +91,7 @@ a query, feedback or wish to report a problem related to this website.
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h3>Our Locations </h3>
+<h3>Our Locations</h3>
 </th>
 <th rowspan="1" colspan="1">
 <h3>Our Stations</h3>
