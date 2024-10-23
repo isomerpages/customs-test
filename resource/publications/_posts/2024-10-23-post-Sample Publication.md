@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h1>Corporate Magazine </h1>
+<h1>Corporate Magazine</h1>
 <p>inSYNC is a publication by Singapore Customs. We keep you updated on topics
 that impact the trading community. Read us to get vital news, pertinent
 insights, useful pointers, practical advice and more.</p>
