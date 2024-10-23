@@ -2,4 +2,5 @@ collections:
   individuals:
     output: true
     order:
+      - Departure.md
       - Arrivals.md
