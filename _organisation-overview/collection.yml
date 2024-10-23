@@ -2,4 +2,5 @@ collections:
   organisation-overview:
     output: true
     order:
+      - Division and Structure.md
       - Customs Crest.md
