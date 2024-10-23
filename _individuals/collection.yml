@@ -2,5 +2,6 @@ collections:
   individuals:
     output: true
     order:
+      - Offences.md
       - Departure.md
       - Arrivals.md
